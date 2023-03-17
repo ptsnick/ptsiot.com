@@ -1,0 +1,10 @@
+body {
+	background-image: url("https://drive.google.com/uc?id=1Wj4Y6siY3eh67uj7bUNaNoW-4Sh9tNew&export=download");
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	z-index: -12;
+}
